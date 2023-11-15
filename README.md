@@ -32,7 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=issleepyhead&show_icons=true&locale=en" alt="issleepyhead" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=issleepyhead&" alt="issleepyhead" /></p>
-<p><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=issleepyhead&layout=compact"/></p>
+<p><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=issleepyhead&layout=compact"/></p>
 
 
 
