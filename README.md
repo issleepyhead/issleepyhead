@@ -18,8 +18,8 @@
 - ⚡ Fun fact
   - I like reading classic litrature books.
   - Currently studying piano.
-  - A chess player
-  - 
+  - A chess player.
+  - A linux enthusiast.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
