@@ -16,8 +16,8 @@
 - 📫 How to reach me **jtenoriobscs@tfvc.edu.ph**
 
 - ⚡ Fun fact
-  - I like reading classic litrature books.
-  - Currently studying piano.
+  - I love reading classic litrature books.
+  - Currently studying how to play piano.
   - A chess player.
   - A linux enthusiast.
 
