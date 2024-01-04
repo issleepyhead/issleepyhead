@@ -68,9 +68,9 @@
 [![Minecraft Mods](https://github-readme-stats.vercel.app/api/pin/?username=issleepyhead&repo=clancy-mods&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/issleepyhead/clancy-mods)
 [![PhilTravel Guide](https://github-readme-stats.vercel.app/api/pin/?username=issleepyhead&repo=philtravel-guide&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/issleepyhead/philtravel-guide)
 <br/>
-<hr>
 <br/>
 
+## My Stats -
 <p align="center">
   <a href="https://github.com/issleepyhead">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=issleepyhead&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
