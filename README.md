@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://github.com/issleepyhead"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!%20I'm%20issleepyhead!;A%20Computer%20Science%20Student&center=true&width=380&height=50"></a>
 </p>
-<br/>
 <h1 align="center">Welcome to my profile!</h1>
 <p>I'm a third-year computer science student deeply immersed in programming, aspiring to become a skilled software engineer. Committed to continuous learning, I actively seek opportunities to expand my skills and contribute meaningfully to the ever-evolving tech landscape.</p>
 <br>
@@ -75,7 +74,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/issleepyhead"><img alt="issleepyhead's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=issleepyhead&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="71.5%"/>
+  <a href="https://github.com/issleepyhead"><img alt="issleepyhead's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=issleepyhead&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="50%"/>
   </a>
 </p>
 
