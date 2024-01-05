@@ -68,23 +68,4 @@
 [![Minecraft Mods](https://github-readme-stats.vercel.app/api/pin/?username=issleepyhead&repo=clancy-mods&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/issleepyhead/clancy-mods)
 [![PhilTravel Guide](https://github-readme-stats.vercel.app/api/pin/?username=issleepyhead&repo=philtravel-guide&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/issleepyhead/philtravel-guide)
 <br/>
-<br/>
-
-## My Stats -
-<p align="center">
-  <a href="https://github.com/issleepyhead">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=issleepyhead&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/issleepyhead"><img alt="issleepyead's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=issleepyhead&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/issleepyhead"><img alt="issleepyhead's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=issleepyhead&langs_count=4&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-<p align="center">
-  <a href="https://github.com/issleepyhead">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=issleepyhead&theme=radical" alt="issleepyhead's GitHub Contribution"/>
-  </a>
-</p>
+<hr>
