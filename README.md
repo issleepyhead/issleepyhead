@@ -62,8 +62,8 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)-->
 <br/>
 <br/>
-## Top Open Source -
 
+## Top Open Source -
 
 [![Ruby Notes](https://github-readme-stats.vercel.app/api/pin/?username=issleepyhead&repo=rubynotes&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/issleepyhead/rubynotes)
 [![Final Project DSA](https://github-readme-stats.vercel.app/api/pin/?username=issleepyhead&repo=final-project-dsa&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/issleepyhead/final-project-dsa)
